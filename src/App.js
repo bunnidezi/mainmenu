@@ -8,7 +8,7 @@ function App() {
     
       <div className="aki"></div>
   <div class="btn btn-start">
-    <a href="#">Press Start<span className="emoji">┗|｀O′|┛</span></a>
+    <a href="https://gameduykkao.netlify.app/">Press Start<span className="emoji">┗|｀O′|┛</span></a>
   </div>
   <div class="btn btn-quit">
     <a href="https://google.com/">Quit Game <span className="emoji">(T_T)</span></a>
